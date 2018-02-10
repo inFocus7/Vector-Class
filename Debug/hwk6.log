@@ -1,0 +1,20 @@
+﻿  Source.cpp
+c:\users\fabia\desktop\computer science\projects\c++\hwk6\hwk6\myvector.h(49): warning C4101: 'dynArray': unreferenced local variable
+  c:\users\fabia\desktop\computer science\projects\c++\hwk6\hwk6\myvector.h(41): note: while compiling class template member function 'vector<std::string>::vector(int,TYPE)'
+          with
+          [
+              TYPE=std::string
+          ]
+  c:\users\fabia\desktop\computer science\projects\c++\hwk6\hwk6\source.cpp(28): note: see reference to function template instantiation 'vector<std::string>::vector(int,TYPE)' being compiled
+          with
+          [
+              TYPE=std::string
+          ]
+  c:\users\fabia\desktop\computer science\projects\c++\hwk6\hwk6\source.cpp(28): note: see reference to class template instantiation 'vector<std::string>' being compiled
+c:\users\fabia\desktop\computer science\projects\c++\hwk6\hwk6\myvector.h(38): warning C4101: 'dynArray': unreferenced local variable
+  c:\users\fabia\desktop\computer science\projects\c++\hwk6\hwk6\myvector.h(23): note: while compiling class template member function 'vector<int>::vector(int)'
+  c:\users\fabia\desktop\computer science\projects\c++\hwk6\hwk6\source.cpp(26): note: see reference to function template instantiation 'vector<int>::vector(int)' being compiled
+c:\users\fabia\desktop\computer science\projects\c++\hwk6\hwk6\myvector.h(20): warning C4101: 'dynArray': unreferenced local variable
+  c:\users\fabia\desktop\computer science\projects\c++\hwk6\hwk6\myvector.h(15): note: while compiling class template member function 'vector<int>::vector(void)'
+  c:\users\fabia\desktop\computer science\projects\c++\hwk6\hwk6\source.cpp(25): note: see reference to function template instantiation 'vector<int>::vector(void)' being compiled
+  hwk6.vcxproj -> C:\Users\fabia\Desktop\Computer Science\Projects\C++\hwk6\Debug\hwk6.exe
